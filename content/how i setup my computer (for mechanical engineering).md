@@ -6,7 +6,7 @@ I would highly recommend a windows laptop for engineering students due to the li
 
 # software/apps
 
-There are a lot of different programs I use daily as a mech eng student, some of them mainstream and some of them more obscure, but these are what I consider essential to download on a new machine, and they are further grouped into rough categories. I tend to prefer FLOSS software (Free/Libre and Open Source Software), though efficiency is most important to me and I will use closed and/or paid software if I consider it the best option. I've italicized programs I consider to be "hidden gems" which may not be commonly recommended. I've avoided listing very common/subjective programs like browsers, streaming services, etc. A lot of these work in tandem with the [[apps I use on Android]].
+There are a lot of different programs I use daily as a mech eng student, some of them mainstream and some of them more obscure, but these are what I consider essential to download on a new machine, and they are further grouped into rough categories. I tend to prefer FLOSS software (Free/Libre and Open Source Software), though efficiency is most important to me and I will use closed and/or paid software if I consider it the best option. I've italicized programs I consider to be "hidden gems" which may not be commonly recommended. I've avoided listing very common/subjective programs like browsers, streaming services, etc. For reference, I use Google Chrome as my regular browser of choice, and use a variety of [[my favourite chrome extensions|chrome extensions]] to improve my experience. A lot of these programs work in tandem with the [[apps I use on Android]].
 
 ## security
 
