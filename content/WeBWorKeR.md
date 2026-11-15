@@ -1,0 +1,1 @@
+WeBWorKer, freely available on both GitHub and the Chrome Webstore is  
